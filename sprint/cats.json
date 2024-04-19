@@ -1,0 +1,46 @@
+[
+  {
+    "fname": "Poppy",
+    "lname": "Bowers",
+    "gender": "Male",
+    "birthday": "12/10/2010",
+    "environment": "indoors",
+    "weight": 12
+  },
+
+  {
+    "fname": "Bella",
+    "lname": "Baine",
+    "gender": "Female",
+    "birthday": "10/08/2017",
+    "environment": "outdoors",
+    "weight": 7
+  },
+
+  {
+    "fname": "Misty",
+    "lname": "Jones",
+    "gender": "Female",
+    "birthday": "03/04/2020",
+    "environment": "indoors",
+    "weight": 11
+  },
+
+  {
+    "fname": "Molly",
+    "lname": "Smith",
+    "gender": "Female",
+    "birthday": "12/10/2012",
+    "environment": "outdoors",
+    "weight": 8
+  },
+
+  {
+    "fname": "Daisy",
+    "lname": "Fey",
+    "gender": "Female",
+    "birthday": "12/10/2021",
+    "environment": "indoors",
+    "weight": 5
+  }
+]
